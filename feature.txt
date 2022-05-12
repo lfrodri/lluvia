@@ -4,5 +4,6 @@ cambio
 <h1>Esta es la barra de recaudacion de dolares</h1>
 <b>Te esperamos</b>
 <b>minimo de ingresos</b>
+<h1>Plata es plata<h1>
 </body>
 </html>
