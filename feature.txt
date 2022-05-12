@@ -3,5 +3,6 @@ cambio
 <body>
 <h1>Esta es la barra de recaudacion de dolares</h1>
 <b>Te esperamos</b>
+<b>minimo de ingresos</b>
 </body>
 </html>
