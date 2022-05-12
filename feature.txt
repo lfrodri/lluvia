@@ -1,6 +1,7 @@
 cambio
 <html>
 <body>
-
+<h1>Esta es la barra de recaudacion de dolares</h1>
+<b>Te esperamos</b>
 </body>
 </html>
